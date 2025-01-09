@@ -1,0 +1,2 @@
+# Data Pre-processing
+This folder contains the code used to estimate information to train kinetic models. It is divided into fluxes and transcripts. The first requires access to biomass_and_metabolites_data folder, while the second needs the rt-qpcr_data folder. Major results used to inform GRASP framework are in their respective 'output' folders. 
